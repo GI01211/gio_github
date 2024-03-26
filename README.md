@@ -7,13 +7,6 @@ Currently a student at The Knowledge House, I come with a background rooted in p
 
 Aspiring to become a skilled Security Analyst, I'm focused on mastering essential tools crucial for safeguarding digital assets. I'm dedicated to learning SIEM platforms like Splunk and Wazuh, network monitoring tools such as Wireshark, and intrusion detection systems like Snort. My goal is to contribute to proactive threat detection, incident response, and overall cybersecurity resilience.
 
-## Skills
-
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 
 
 ## Tools
