@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/uc?id=18kpQ4wtoD3f3w83y1g2hgVuxRlywGr51)
+![Banner](https://drive.google.com/uc?id=13pfzUwNaKWLs1gdDCsEaWcgKXWn9I5tu)
 
 
 # Hello, I'm Giovanni!
