@@ -45,7 +45,7 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
   - **Role**: Contributor
   - **Description**: Contributed to the setup and configuration of a virtualized environment for cybersecurity training.
 
-- [AWS Security Operations Center](https://github.com/your-username/aws-security-operations-center)  *(replace with actual URL)*
+- [AWS Security Operations Center](https://github.com/GI01211/Overview)  
   - **Role**: Contributor
   - **Description**: Worked on the design and implementation of security operations strategies for AWS environments.
 
