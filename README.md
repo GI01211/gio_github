@@ -9,6 +9,21 @@ Currently a student at The Knowledge House, I come with a background rooted in p
 
 Aspiring to become a skilled Security Analyst, I'm focused on mastering essential tools crucial for safeguarding digital assets. I'm dedicated to learning SIEM platforms like Splunk and Wazuh, network monitoring tools such as Wireshark, and intrusion detection systems like Snort. My goal is to contribute to proactive threat detection, incident response, and overall cybersecurity resilience.
 
+## Projects
+
+- [Local Cybersecurity Homelab](https://github.com/GI01211/gio_github/tree/main/P1%20Homelab%20-%20Virtual%20Box)
+  - **Role**: Technical Lead
+  - **Description**: Setup and configured a virtualized environment for cybersecurity training.
+
+- [AWS Security Operations Center](https://github.com/GI01211/Overview)  
+  - **Role**: Technical Lead and Project Manager
+  - **Description**: Worked on the design and implementation of security operations strategies for an AWS environment.
+
+- [AWS Cybersecurity Homelab](https://github.com/GI01211/Phase-2-Group-Project-Homelab)
+  - **Role**: Technical Lead
+  - **Description**: Assisted in developing and testing security controls and configurations for an AWS-based cybersecurity homelab.
+
+
 ## Tools
 
 ### Network
@@ -39,16 +54,3 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## Projects
-
-- [Local Cybersecurity Homelab](https://github.com/GI01211/gio_github/tree/main/P1%20Homelab%20-%20Virtual%20Box)
-  - **Role**: Technical Lead
-  - **Description**: Setup and configured a virtualized environment for cybersecurity training.
-
-- [AWS Security Operations Center](https://github.com/GI01211/Overview)  
-  - **Role**: Technical Lead and Project Manager
-  - **Description**: Worked on the design and implementation of security operations strategies for an AWS environment.
-
-- [AWS Cybersecurity Homelab](https://github.com/GI01211/Phase-2-Group-Project-Homelab)
-  - **Role**: Technical Lead
-  - **Description**: Assisted in developing and testing security controls and configurations for an AWS-based cybersecurity homelab.
