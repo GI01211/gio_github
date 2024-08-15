@@ -1,6 +1,5 @@
 ![Banner](https://drive.google.com/uc?id=13pfzUwNaKWLs1gdDCsEaWcgKXWn9I5tu)
 
-
 # Hello, I'm Giovanni!
 <a href="https://www.linkedin.com/in/giovanni-garcia-flores"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -41,6 +40,6 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
 </div>
 
 ## Projects
-- Local Cybersecurity Homelab
-- AWS Security operations Center 
-- AWS Cybersecurity Homelab
+- [Local Cybersecurity Homelab](https://github.com/GI01211/gio_github/tree/main/P1%20Homelab%20-%20Virtual%20Box)
+- [AWS Security Operations Center](https://github.com/your-username/aws-security-operations-center)  *(replace with actual URL)*
+- [AWS Cybersecurity Homelab](https://github.com/your-username/aws-cybersecurity-homelab)  *(replace with actual URL)*
