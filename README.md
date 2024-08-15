@@ -40,6 +40,15 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
 </div>
 
 ## Projects
+
 - [Local Cybersecurity Homelab](https://github.com/GI01211/gio_github/tree/main/P1%20Homelab%20-%20Virtual%20Box)
+  - **Role**: Contributor
+  - **Description**: Contributed to the setup and configuration of a virtualized environment for cybersecurity training.
+
 - [AWS Security Operations Center](https://github.com/your-username/aws-security-operations-center)  *(replace with actual URL)*
-- [AWS Cybersecurity Homelab](https://github.com/your-username/aws-cybersecurity-homelab)  *(replace with actual URL)*
+  - **Role**: Contributor
+  - **Description**: Worked on the design and implementation of security operations strategies for AWS environments.
+
+- [AWS Cybersecurity Homelab](https://github.com/GI01211/Phase-2-Group-Project-Homelab)
+  - **Role**: Contributor
+  - **Description**: Assisted in developing and testing security controls and configurations for an AWS-based cybersecurity homelab.
