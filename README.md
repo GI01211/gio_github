@@ -41,5 +41,6 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Local Cybersecurity Homelab
+- AWS Security operations Center 
+- AWS Cybersecurity Homelab
