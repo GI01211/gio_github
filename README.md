@@ -35,19 +35,19 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
     <img src="https://images.credly.com/size/160x160/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="CISCO Intro to Cyber Security" style="width: 80px;">
   </a>
   <a href="https://www.credly.com/earner/earned/badge/173432d8-fe25-41d5-a3a0-91396030f8d2">
-    <img src="https://images.credly.com/size/160x160/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Educate" style="width: 80px;">
+    <img src="https://images.credly.com/size/160x160/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Educate Compute" style="width: 80px;">
   </a>
-  <a href="https://www.credly.com/badges/your-badge-id/public_url">
-    <img src="https://images.credly.com/size/160x160/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="AWS Cloud Practitioner" style="width: 80px;">
+  <a href="https://www.credly.com/earner/earned/badge/9fe6431f-da2c-4bcd-bfd4-d7bb8e1c7133">
+    <img src="https://images.credly.com/size/160x160/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="AWS Storage" style="width: 80px;">
   </a>
-  <a href="https://www.credly.com/badges/your-badge-id/public_url">
-    <img src="https://images.credly.com/size/160x160/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="SOC Analyst" style="width: 80px;">
+  <a href="https://www.credly.com/earner/earned/badge/0a01038b-e7bd-41e0-a383-f72963bdc42e">
+    <img src="https://images.credly.com/size/160x160/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="AWS Networking" style="width: 80px;">
   </a>
-  <a href="https://www.credly.com/badges/your-badge-id/public_url">
-    <img src="https://images.credly.com/size/160x160/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png" alt="Security Essentials" style="width: 80px;">
+  <a href="https://www.credly.com/earner/earned/badge/c9d43b59-29d6-4187-9d2f-f9f8b28b5939">
+    <img src="https://images.credly.com/size/160x160/images/80845928-d1f8-4549-ae9d-27676fba897e/image.png" alt="AWS Security Essentials" style="width: 80px;">
   </a>
-  <a href="https://www.credly.com/badges/your-badge-id/public_url">
-    <img src="https://images.credly.com/size/160x160/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" alt="Incident Handling & Response" style="width: 80px;">
+  <a href="https://www.credly.com/earner/earned/badge/3d2d52de-3b02-40d9-ae6e-008e01dfab22">
+    <img src="https://images.credly.com/size/160x160/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" alt="AWS Databases" style="width: 80px;">
   </a>
 </div>
 
