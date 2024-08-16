@@ -23,6 +23,17 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
   - **Role**: Technical Lead
   - **Description**: Assisted in developing and testing security controls and configurations for an AWS-based cybersecurity homelab.
 
+## Badges and Certifications
+
+CISCO Intro to Cyber Security 
+
+CISCO Networking Basics 
+
+AWS Educate Getting Started with Compute, Storage, Networking, Security, and Databases
+
+--> Link to Credly profile [here](https://www.credly.com/users/giovanni-garcia-flores)
+
+
 
 ## Tools
 
