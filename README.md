@@ -11,10 +11,6 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
 
 # Projects
 
-- [Local Cybersecurity Homelab](https://github.com/GI01211/gio_github/tree/main/P1%20Homelab%20-%20Virtual%20Box)
-  - **Role**: Technical Lead
-  - **Description**: Setup and configured a virtualized environment for cybersecurity training.
-
 - [AWS Security Operations Center](https://github.com/GI01211/Overview)  
   - **Role**: Technical Lead and Project Manager
   - **Description**: Worked on the design and implementation of security operations strategies for an AWS environment.
@@ -23,6 +19,9 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
   - **Role**: Technical Lead
   - **Description**: Assisted in developing and testing security controls and configurations for an AWS-based cybersecurity homelab.
 
+- [Local Cybersecurity Homelab](https://github.com/GI01211/gio_github/tree/main/P1%20Homelab%20-%20Virtual%20Box)
+  - **Role**: Technical Lead
+  - **Description**: Setup and configured a virtualized environment for cybersecurity training.
 # Badges and Certifications
 
 ## Networking, Cloud Computing, and Security Operations
