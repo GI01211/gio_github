@@ -9,7 +9,7 @@ Currently a student at The Knowledge House, I come with a background rooted in p
 
 Aspiring to become a skilled Security Analyst, I'm focused on mastering essential tools crucial for safeguarding digital assets. I'm dedicated to learning SIEM platforms like Splunk and Wazuh, network monitoring tools such as Wireshark, and intrusion detection systems like Snort. My goal is to contribute to proactive threat detection, incident response, and overall cybersecurity resilience.
 
-## Projects
+# Projects
 
 - [Local Cybersecurity Homelab](https://github.com/GI01211/gio_github/tree/main/P1%20Homelab%20-%20Virtual%20Box)
   - **Role**: Technical Lead
