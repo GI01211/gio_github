@@ -55,6 +55,12 @@ For a complete list of my certifications, visit my [Credly Profile](https://www.
 
 # Tools
 
+### Cloud
+
+<div>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
