@@ -26,7 +26,7 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
 # Badges and Certifications
 
 ## Networking
-[![CISCO Networking Basics](https://images.credly.com/size/220x220/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/cedfa66c-0e6f-46b9-99d5-ba3230a87d5e/public_url)
+[![CISCO Networking Basics](https://images.credly.com/size/160x160/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/cedfa66c-0e6f-46b9-99d5-ba3230a87d5e/public_url)
 
 [![CISCO Intro to Cyber Security](https://images.credly.com/size/160x160/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/your-badge-id/public_url)
 
