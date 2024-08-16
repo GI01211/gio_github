@@ -54,7 +54,7 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
 ## Full Credential Profile
 For a complete list of my certifications, visit my [Credly Profile](https://www.credly.com/users/your-profile-id).
 
-## Tools
+# Tools
 
 ### Network
 <div>
