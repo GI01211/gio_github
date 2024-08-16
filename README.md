@@ -34,7 +34,7 @@ Aspiring to become a skilled Security Analyst, I'm focused on mastering essentia
   <a href="https://www.credly.com/earner/earned/badge/8e4d0197-6e02-43ef-b967-1dc31ad45f97">
     <img src="https://images.credly.com/size/160x160/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="CISCO Intro to Cyber Security" style="width: 80px;">
   </a>
-  <a href="https://www.credly.com/badges/your-badge-id/public_url">
+  <a href="https://www.credly.com/earner/earned/badge/173432d8-fe25-41d5-a3a0-91396030f8d2">
     <img src="https://images.credly.com/size/160x160/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Educate" style="width: 80px;">
   </a>
   <a href="https://www.credly.com/badges/your-badge-id/public_url">
