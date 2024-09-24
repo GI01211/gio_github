@@ -3,7 +3,7 @@
 # Hello, I'm Giovanni!
 <a href="https://www.linkedin.com/in/giovanni-garcia-flores"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Currently a student at The Knowledge House, I come with a background rooted in product design and photography. However, my journey has led me to a newfound passion for cybersecurity. With a diverse array of skills at my disposal, I am excited to leverage my creativity, problem-solving abilities, and keen eye for detail to transition into the dynamic field of cybersecurity.
+I come with a background rooted in product design and photography. However, my journey has led me to a newfound passion for cybersecurity. With a diverse array of skills at my disposal, I am excited to leverage my creativity, problem-solving abilities, and keen eye for detail to transition into the dynamic field of cybersecurity.
 
 ## Objective
 
